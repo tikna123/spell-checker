@@ -214,8 +214,8 @@ output didn’t showed up agiain because of phoenitics.
 
 ## References
 
-[1] Andrew R. Golding, A Bayesian Hybrid Method for context-sensitive spelling correction.
-[2] Mark D. Kemighan, Kenneth W. Church, William A. Gale, A Spelling Correction Program
+* [1] Andrew R. Golding, A Bayesian Hybrid Method for context-sensitive spelling correction.
+* [2] Mark D. Kemighan, Kenneth W. Church, William A. Gale, A Spelling Correction Program
 Based on a Noisy Channel Model.
 
 
